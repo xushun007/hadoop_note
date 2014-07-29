@@ -25,7 +25,7 @@ Hadoop基于Java编写，Java是我最熟练的语言，所以阅读源码比以
 * [Hadoop 数据节点之写数据](Hadoop_DataNode_WriteData.md)
 * [Hadoop 名字节点 - 数据结构](Hadoop_NameNode_DataStruture.md)
 * [Hadoop 名字节点 - 读写数据](Hadoop_NameNode_DR.md)
-* [Hadoop HDFS Comics](Hadoop_HDFS_Comics.md)
+* [Hadoop HDFS漫画](Hadoop_HDFS_Comics.md)
 * ...
 * [ByteBuffer简介](ByteBuffer.md)
 * 未完，待续...
